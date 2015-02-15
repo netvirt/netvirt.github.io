@@ -1,0 +1,39 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+# Site settings
+title: "NetVirt"
+description: > # this means to ignore newlines until "email:"
+   A Network Virtualization Platform
+
+email: admin@netvirt.org
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+# blog cover
+cover: "/assets/images/Pneumatic_Dispatch_-_Figure_7.png"
+
+name: 'Nicolas J. Bouliane'
+author: 'Nicolas J. Bouliane'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://netvirt.github.io" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/dynvpn
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	github
+    url:	https://github.com/netvirt
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
